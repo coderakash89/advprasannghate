@@ -1,0 +1,8 @@
+# Claude Code local session config (not part of the website)
+.claude/
+
+# OS / editor junk
+Thumbs.db
+desktop.ini
+.DS_Store
+*.log

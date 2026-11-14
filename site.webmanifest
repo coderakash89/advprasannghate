@@ -1,0 +1,12 @@
+{
+  "name": "Adv. Prasann Ghate — Property Law & Documentation",
+  "short_name": "Adv. Ghate",
+  "description": "Property documentation lawyer in Wagholi & Kharadi, Pune.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f2742",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
